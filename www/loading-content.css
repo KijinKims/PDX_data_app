@@ -1,0 +1,11 @@
+.loading-content {
+position: absolute;
+background: #FFFFFF;
+z-index: 100;
+left: 0;
+right: 0;
+height: 100%;
+opacity: 0.0;
+text-align: center;
+color: #000000;
+}

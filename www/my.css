@@ -1,0 +1,23 @@
+td[data-type="factor"] input {
+    width: 80px !important;
+}
+
+td[data-type="number"] input {
+    width: 50px !important;
+}
+
+#mstable .table th {
+	align: center;
+}
+
+#mstable .table td {
+	align: center;
+}
+
+#mgtable .table th {
+	align: center;
+}
+
+#mgtable .table td {
+	align: center;
+}
